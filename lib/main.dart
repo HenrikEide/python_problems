@@ -142,28 +142,28 @@ class _MyHomePageState extends State<MyHomePage> {
                   child: ElevatedButton(
                       style: mainButtonStyle,
                       onPressed: () {},
-                      child: const Text("Start")),
+                      child: const Text("Menu")),
                 ),
                 Container(
                   padding: mainButtonPadding,
                   child: ElevatedButton(
                       style: mainButtonStyle,
                       onPressed: () {},
-                      child: const Text("Another Option")),
+                      child: const Text("Random")),
                 ),
                 Container(
                   padding: mainButtonPadding,
                   child: ElevatedButton(
                       style: mainButtonStyle,
                       onPressed: () {},
-                      child: const Text("More Options")),
+                      child: const Text("Exam prep")),
                 ),
                 Container(
                   padding: mainButtonPadding,
                   child: ElevatedButton(
                       style: mainButtonStyle,
                       onPressed: () {},
-                      child: const Text("Last Option")),
+                      child: const Text("Options")),
                 ),
               ]
             ),
